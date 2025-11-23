@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Gmail-Arielsant520%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a> <br>
 
-  <a href="www.linkedin.com/in/ariel-santos-souza-998b8b31a" target="_blank">
+  <a href="https://www.linkedin.com/in/ariel-santos-souza-998b8b31a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
