@@ -17,8 +17,8 @@
 ---
 
 ## Projetos em Destaque
-- [Portfólio](https://github.com/Arielsnts/portifolio) — Repositório do meu portfólio pessoal.
-- [Projetos Web](https://github.com/Arielsnts/web-projects) — Repositório com meus projetos de desenvolvimento web.
+- [Portfólio](https://github.com/Arielsnts/portifolio) - Repositório do meu portfólio pessoal.
+- [Projetos Web](https://github.com/Arielsnts/web-projects) - Repositório com meus projetos de desenvolvimento web.
 
 ---
 
