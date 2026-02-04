@@ -26,9 +26,6 @@
 ## Contato
 
 <div>
-  <a href="https://github.com/Arielsnts" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ArielSnts-000?style=for-the-badge&logo=github&logoColor=white">
-  </a> <br>
 
   <a href="mailto:Arielsant520@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Arielsant520%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
