@@ -7,8 +7,8 @@
 
 ---
 
-## Linguagens & Tecnologias  
-<p>
+<h1 align="center">Tecnologias</h1>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=next,react,ts,js,css,express,postgres,mongodb,python,java" />
   </a>
