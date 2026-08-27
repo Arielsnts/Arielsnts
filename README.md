@@ -1,41 +1,45 @@
-<h1 align="center">Olá, eu sou Ariel Santos</h1>
+# Ariel Santos
 
-<p align="center">
-  Sistemas de Informação - UFS <br>
-  Desenvolvimento Front-end e Back-end <br>
-</p>
+Desenvolvedor Full Stack | Sistemas de Informação - UFS
 
 ---
 
-<h1 align="center">Tecnologias</h1>
-<p align="center">
+## Sobre
+
+Focado atualmente em criar soluções web escaláveis e intuitivas. Experiência em desenvolvimento front-end e back-end com foco em tecnologias modernas.
+
+---
+
+## Stack Tecnológico
+
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,react,ts,js,css,express,postgres,mongodb,python,java" />
-  </a>
-</p>
-
----
-
-## Projetos em Destaque
-- [Portfólio](https://github.com/Arielsnts/portifolio) - Repositório do meu portfólio pessoal.
-- [Currículo](https://github.com/Arielsnts/curriculo) - Repositório com sistema de análise de currículo com IA.
-- [Agendamento](https://github.com/Arielsnts/agendamento) - Repositório com sistema de agendamento online.
-
----
-
-## Contato
-
-<div>
-
-  <a href="mailto:Arielsant520@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Arielsant520%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a> <br>
-
-  <a href="https://www.linkedin.com/in/ariel-santos-souza-998b8b31a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=next,react,ts,js,css,express,postgres,mongodb,python,java" alt="Tech Stack" />
   </a>
 </div>
 
-<br>
+---
+## Projetos em Destaque
+ 
+### Portfólio
+Repositório do meu portfólio pessoal.
+- [Ver repositório](https://github.com/Arielsnts/portifolio)
+### Sistema de Análise de Currículo com IA
+Plataforma que utiliza inteligência artificial para análise e otimização de currículos.
+- [Ver repositório](https://github.com/Arielsnts/curriculo)
+### Sistema de Agendamento Online
+Solução completa para gerenciamento e agendamento de serviços online.
+- [Ver repositório](https://github.com/Arielsnts/agendamento)
+---
+ 
 
-Sinta-se à vontade para entrar em contato comigo sobre projetos, colaborações ou qualquer assunto relacionado a desenvolvimento.
+
+---
+## Conecte-se Comigo
+ 
+- **Email**: Arielsant520@gmail.com
+- **LinkedIn**: [ariel-santos-souza](https://www.linkedin.com/in/ariel-santos-souza-998b8b31a)
+- **GitHub**: [Arielsnts](https://github.com/Arielsnts)
+Estou sempre aberto a conversas sobre desenvolvimento, colaborações em projetos ou novas oportunidades. Sinta-se livre para entrar em contato!
+ 
+ 
