@@ -14,13 +14,13 @@
 
 ## Projetos em Destaque
 
-- **[Currículo](https://github.com/Arielsnts/curriculo)**
+- **[Currículo](https://github.com/Arielsnts/curriculo)**:
   Sistema de análise de currículos com integração de Inteligência Artificial.
   
-- **[Agendamento](https://github.com/Arielsnts/agendamento)**
+- **[Agendamento](https://github.com/Arielsnts/agendamento)**:
   Plataforma para gestão e sistema de agendamento online.
   
-- **[Portfólio](https://github.com/Arielsnts/portifolio)**
+- **[Portfólio](https://github.com/Arielsnts/portifolio)**:
   Meu espaço pessoal na web e vitrine de projetos.
 
 <br>
@@ -33,7 +33,7 @@ Sinta-se à vontade para entrar em contato comigo sobre projetos, colaborações
   <a href="mailto:Arielsant520@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Arielsant520%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
-  <a href="https://www.linkedin.com/in/ariel-santos-souza-998b8b31a" target="_blank">
+  <a href="https://www.linkedin.com/in/ariel-snts/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ariel_Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
